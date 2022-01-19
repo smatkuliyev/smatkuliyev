@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/smatkuliyev/smatkuliyev/blob/main/796835.jpg?raw=true">
 
-<h1 align="center">Hi, I am Sulayman Matkuliyev</h1> 
+<h1 align="center">Hi 🙋‍♂️, I am Sulayman Matkuliyev</h1> 
+
+<h3 align="center"> Full Stack Web Developer </h3>
+
+
