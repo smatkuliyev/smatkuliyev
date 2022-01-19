@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 🙋‍♂️, I am Sulayman Matkuliyev</h1> 
 
-<h3 align="center"> Full Stack Web Developer </h3>
+<h3 align="center"> Full Stack Java Developer </h3>
 
 <a href="https://linkedin.com/in/www.linkedin.com/in/sulaymanmatkuliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sulaymanmatkuliyev" height="30" width="40" /></a>
 </p>
