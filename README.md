@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 
 <h3 align="center"> Full Stack Web Developer </h3>
 
+<ul>
+  <li> ✔️HTML, CSS, JavaScript, Java, Hibernate, SQL, React, Spring </li>
+</ul>
+
 
