@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello World
+<img src="https://github.com/smatkuliyev/smatkuliyev/blob/main/796835.jpg?raw=true">
+
+<h1 align="center">Hi, I am Sulayman Matkuliyev</h1> 
