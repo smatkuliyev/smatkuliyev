@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Software Engineering**
 
-- 📫 How to reach me **www.linkedin.com/in/sulaymanmatkuliyev**
+- 📫 How to reach me **/sulaymanmatkuliyev**
 
 - ⚡ Fun fact **I think I am funny :-)**
 
