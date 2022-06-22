@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Junior Java Developer**
+- 🔭 I’m currently working on **Java Developer**
 
 - 🌱 I’m currently learning **Spring**, **Kafka**
 
