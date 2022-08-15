@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java Developer**
 
-- 🌱 I’m currently learning **Spring**, **Kafka**
+- 🌱 I’m currently learning **Spring**, **Kafka**, **Spark**
 
 - 💬 Ask me about **Software Engineering**
 
