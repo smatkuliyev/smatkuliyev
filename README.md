@@ -3,7 +3,7 @@
 
 <body style="margin: 0px; background: #0e0e0e; height: 100%" cz-shortcut-listen="true"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/81809211/160313931-dcf2e5a1-fcb1-4260-9b99-8a43a95b76b4.gif" width="261" height="195"></body>
 
-- 🔭 I’m currently working on **Java Developer**
+- 🔭 I’m currently working as **Java Developer**
 
 - 🌱 I’m currently learning **Spring**, **Kafka**, **Spark**
 
